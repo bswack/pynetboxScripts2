@@ -1,0 +1,5 @@
+import pynetbox
+nb = pynetbox.api(
+    'https://netbox.abcnews.app',
+    token='d8f563d5b7453c76f35686479c03c85d6961a008'
+)
